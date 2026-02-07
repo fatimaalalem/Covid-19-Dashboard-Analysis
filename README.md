@@ -10,7 +10,7 @@ An interactive COVID-19 dashboard that visualizes global pandemic trends, vaccin
 * Provide focused insights on Jordan and regional patterns
 
 
-## Dashboard Features / Sections
+## Dashboard Sections
 
 ### Global Overview
 
@@ -19,7 +19,7 @@ An interactive COVID-19 dashboard that visualizes global pandemic trends, vaccin
 * Interactive Choropleth Map
 * Climate & Seasonality Trends
 
----
+
 
 ### Continental Analysis
 
@@ -28,7 +28,7 @@ An interactive COVID-19 dashboard that visualizes global pandemic trends, vaccin
 * Vaccination Distribution (Box Plots)
 * Best vs Worst Performing Countries
 
----
+
 
 ### Socioeconomic Factors
 
@@ -38,7 +38,7 @@ An interactive COVID-19 dashboard that visualizes global pandemic trends, vaccin
 * Income Tier Comparisons
 * Socioeconomic Correlation Analysis
 
----
+
 
 ### Policy & Epidemiological Dynamics
 
@@ -64,6 +64,7 @@ R Shiny dashboard built using key libraries including:
 **shiny, dplyr, ggplot2, plotly, reshape2, lubridate, RColorBrewer, DT, tidyr, scales, ggrepel, corrplot.**
 
 ## Dataset
+The dashboard is built using publicly available COVID-19 datasets containing global time-series records of confirmed cases, deaths, vaccinations, testing rates, and policy indicators.
 The dataset used in this project is publicly available on Kaggle:
 https://www.kaggle.com/datasets/georgesaavedra/covid19-dataset/data
 
