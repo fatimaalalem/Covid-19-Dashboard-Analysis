@@ -12,15 +12,11 @@ An interactive COVID-19 dashboard that visualizes global pandemic trends, vaccin
 
 ## Dashboard Sections
 
-### Global Overview
-
-### Continental Performance
-
-### Socioeconomic Analysis
-
-### Policy Response Analysis
-
-### Jordan Analysis
+* Global Overview
+* Continental Performance
+* Socioeconomic Analysis
+* Policy Response Analysis
+* Jordan Analysis
 
 
 ## Libraries Used
