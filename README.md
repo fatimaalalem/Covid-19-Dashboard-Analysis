@@ -14,48 +14,13 @@ An interactive COVID-19 dashboard that visualizes global pandemic trends, vaccin
 
 ### Global Overview
 
-* Vaccination vs Deaths Analysis
-* Global Correlation Heatmap
-* Interactive Choropleth Map
-* Climate & Seasonality Trends
-
-
-
 ### Continental Performance
-
-* Weekly Cases by Continent
-* Total Cases Comparison
-* Vaccination Distribution (Box Plots)
-* Best vs Worst Performing Countries
-
-
 
 ### Socioeconomic Analysis
 
-* GDP vs Testing Rates
-* Population Density vs Cases/Deaths
-* Expected vs Observed Deaths
-* Income Tier Comparisons
-* Socioeconomic Correlation Analysis
-
-
-
 ### Policy Response Analysis
 
-* Stringency Index vs Case Rates
-* Early vs Late Response Impact
-* Positivity Rate Analysis
-* Vaccination Effect on Mortality
-
-
-
 ### Jordan Analysis
-
-* Cases vs Death Waves
-* Jordan vs Neighboring Countries
-* Policy & Vaccination Impact
-* National Correlation Heatmap
-
 
 
 ## Libraries Used
