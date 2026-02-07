@@ -21,7 +21,7 @@ An interactive COVID-19 dashboard that visualizes global pandemic trends, vaccin
 
 
 
-### Continental Analysis
+### Continental Performance
 
 * Weekly Cases by Continent
 * Total Cases Comparison
@@ -30,7 +30,7 @@ An interactive COVID-19 dashboard that visualizes global pandemic trends, vaccin
 
 
 
-### Socioeconomic Factors
+### Socioeconomic Analysis
 
 * GDP vs Testing Rates
 * Population Density vs Cases/Deaths
@@ -40,7 +40,7 @@ An interactive COVID-19 dashboard that visualizes global pandemic trends, vaccin
 
 
 
-### Policy & Epidemiological Dynamics
+### Policy Response Analysis
 
 * Stringency Index vs Case Rates
 * Early vs Late Response Impact
@@ -49,7 +49,7 @@ An interactive COVID-19 dashboard that visualizes global pandemic trends, vaccin
 
 
 
-### Jordan Focused Analysis
+### Jordan Analysis
 
 * Cases vs Death Waves
 * Jordan vs Neighboring Countries
